@@ -1,0 +1,1 @@
+Multi-Scale Learning-Based Ensemble Model (MsLEM) is used to extract multiscale information for fault detection of covered conductors. MsLEM contains three learning-based neural networks, including a Patch Encoder, a Lightweight Encoder, and a Learnable Ensemble Mechanism.
